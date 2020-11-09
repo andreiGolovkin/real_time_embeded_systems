@@ -1,0 +1,3 @@
+[submodule "pygame_tools"]
+	path = pygame_tools
+	url = https://github.com/andreiGolovkin/pygame_tools.git
